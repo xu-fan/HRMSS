@@ -1,9 +1,10 @@
 package com.hrms.bean;
 
 /**
- * @author GenshenWang.nomico
- * @date 2018/3/5.
- */
+ * @Author xufan
+ * @Description
+ * @Date 11:11 2019/05/02
+ **/
 public class Employee {
     private Integer empId;
     private String empName;
